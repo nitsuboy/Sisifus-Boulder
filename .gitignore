@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# some stuff that dosent need
+.vscode/
+Makefile
